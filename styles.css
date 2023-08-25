@@ -1,0 +1,13 @@
+header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
+.filters {
+    margin-top: 20px;
+}
+
+#machineList {
+    padding: 20px;
+}
